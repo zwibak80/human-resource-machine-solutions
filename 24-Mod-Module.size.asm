@@ -14,7 +14,3 @@ c:
     ADD      1
     OUTBOX  
     JUMP     a
-
-
-
-
